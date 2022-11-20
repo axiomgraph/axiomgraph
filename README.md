@@ -1,1 +1,1 @@
-I am a learner
+Doing things that I love
