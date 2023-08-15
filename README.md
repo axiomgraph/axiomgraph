@@ -1,7 +1,4 @@
-<h2 align="left">Hi  My name is bhanu khan from India. person behind axiomgraph and axiomcatalyst. currently working on various things I love</h2>
-<div align="left">
-<img src="https://github.com/axiomgraph/axiomgraph/assets/68183694/d6c7493e-7307-415d-8b69-81aff8554d71"/>
-</div>
+
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=axiomgraph&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
